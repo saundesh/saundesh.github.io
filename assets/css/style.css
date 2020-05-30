@@ -1,0 +1,63 @@
+#body {
+    width: 75%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    padding: 50px 25px;
+}
+
+#about-body {
+    padding: 15px;
+}
+
+img {
+    padding: 5px;
+}
+
+h1 {
+    padding-top: 10px;
+}
+
+#personal-links {
+    width: 200px;
+    height: 45px;
+    padding: 10px 0px 5px 0px;
+    margin: auto;
+}
+
+#resume {
+    float: left;
+}
+
+#resume-btn {
+    border-radius: 25px;
+    color: white;
+}
+
+#social-media {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+#email, #github, #linkedin {
+    padding: 2.5px 5px;
+    font-size: 25px;
+}
+
+h3 {
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+#about-summary {
+    padding-top: 35px;
+    width: 410px;
+    max-width: 90%;
+    margin: auto;
+    padding-bottom: 15px;
+}
